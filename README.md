@@ -1,2 +1,2 @@
-# handip.github.io
-website di Github
+# handipriyono.github.io
+membuat simple website di Github
