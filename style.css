@@ -1,39 +1,39 @@
 body {
   @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-display: block;
-width: 100%;
-box-sizing: border-box;
--moz-box-sizing: border-box;
-border: 1px solid #999;
-border-radius: 5px;
-background: #EAEAEA;
-    background-color: rgb(234, 234, 234);
-    background-image: none;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position-x: 0%;
-    background-position-y: 0%;
-    background-size: auto auto;
-text-decoration: none;
-margin-right: 5px;
-margin: 0px !important;
-padding: 0px !important;
-font-size: 15px;
-line-height: 25px;
-background-attachment: fixed;
-background-color: #fff;
-background-position: 50% 0;
-background-repeat: no-repeat;
--webkit-background-size: cover;
--moz-background-size: cover;
-background-size: cover;
-background-image: url(img/kayu1.jpg);
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  border: 1px solid #999;
+  border-radius: 5px;
+  background: #EAEAEA;
+  background-color: rgb(234, 234, 234);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-size: auto auto;
+  text-decoration: none;
+  margin-right: 5px;
+  margin: 0px !important;
+  padding: 0px !important;
+  font-size: 15px;
+  line-height: 25px;
+  background-attachment: fixed;
+  background-color: #fff;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-image: url(img/kayu1.jpg);
 }
 
 #maintitle {
-  color:#fff;
-  font-size:23px;
+  color: #fff;
+  font-size: 23px;
 }
 
 fieldset {
@@ -126,11 +126,12 @@ article:hover {
 }
 
 h2#Warna {
-  font-size:28px;
-  color:red;
-  border-bottom:1px solid #eee;
-  padding-bottom:5px;
+  font-size: 28px;
+  color: red;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 6px;
 }
+
 #article-list {
   background-color: #fff;
   margin: 0 auto;
@@ -205,7 +206,7 @@ nav li {
 
 nav ul a {
   padding: 10px;
-  color:#fff
+  color: #fff
 }
 
 h1 {
