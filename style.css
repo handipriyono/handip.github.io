@@ -28,10 +28,10 @@ background-repeat: no-repeat;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 background-size: cover;
-background-image: url(img/kayu.jpg);
+background-image: url(img/kayu1.jpg);
 }
 
-#maine {
+#maintitle {
   color:#fff;
   font-size:23px;
 }
